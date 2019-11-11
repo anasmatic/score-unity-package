@@ -1,0 +1,7 @@
+{
+  "name": "com.anasmatic.score",
+  "version": "1.0.0",
+  "displayName": "anasmatic score package",
+  "description": "I will use this package as my base for score implemetaion",
+  "unity": "2019.1"
+}
